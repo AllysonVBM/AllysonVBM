@@ -1,10 +1,3 @@
-# 👨‍🚀 Allyson Beserra
-
-Developer and researcher driven by curiosity and a deep interest in **technology, science, and the future of space exploration**.  
-I enjoy building systems that connect data, hardware, and software — transforming ideas into something that works, moves, and learns.
-
----
-
 ## 🧭 What I Work On
 
 - 🚀 Experimenting with automation, data analysis, and intelligent systems  
