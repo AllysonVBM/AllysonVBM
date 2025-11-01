@@ -1,23 +1,56 @@
-![Banner](./assets/banner_github.png)
+# 👨‍🚀 Allyson Beserra
 
-## 👋 Sobre mim
+Developer and researcher driven by curiosity and a deep interest in **technology, science, and the future of space exploration**.  
+I enjoy building systems that connect data, hardware, and software — transforming ideas into something that works, moves, and learns.
 
-Desenvolvedor com foco em Inteligência Artificial, aplicando soluções práticas em diferentes plataformas e ambientes interativos.
+---
 
-## 🧠 Principais habilidades
+## 🧭 What I Work On
 
-- 💻 **Linguagens:** Python, JavaScript  
-- 🧰 **Tecnologias:** OpenCV, FFMPEG, TensorFlow, PyTorch, Pandas, Uvicorn, FastAPI, Matplotlib, Scikit-Learn  
-- 🗄️ **Bancos de Dados:** PostgreSQL, SQLite  
-- 🤖 **Foco:** Desenvolvimento e implementação de modelos de IA aplicados
+- 🚀 Experimenting with automation, data analysis, and intelligent systems  
+- 🔭 Exploring ways to apply technology to space science and exploration  
+- ⚙️ Designing prototypes that combine programming, physics, mathematics and electronics  
 
-## ⚙️ Experiência prática
+---
 
-- Integração de modelos de IA em:
-  - 🎮 **Minecraft:** agentes capazes de jogar e interagir em tempo real
-  - 💬 **Discord e WhatsApp:** bots com processamento de linguagem natural, análise de imagem e automações
+## 💻 Technical Skills
 
-## 📫 Contato
+**Languages:**  
+Python · C++ - Javascript
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-allysonvictor-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allyson-victor-9b534b2b3)  
-- 📧 [allysonvbm@gmail.com](mailto:allysonvbm@gmail.com)
+**Frameworks & Libraries:**  
+OpenCV · TensorFlow · PyTorch · Pandas · Matplotlib · Scikit-Learn · FastAPI · Uvicorn · FFMPEG  
+
+**Databases:**  
+PostgreSQL · SQLite  
+
+**Other Interests:**  
+Machine Learning · Computer Vision · Embedded Systems · Scientific Computing  
+
+---
+
+## 🧪 Projects & Experiments
+
+- 🎮 **Minecraft Agent:** autonomous agent capable of exploring and interacting with the environment  
+- 💬 **Discord & WhatsApp Bots:** assistants combining automation, language understanding, and image analysis  
+- 🛰️ **In Progress:**  
+  - Earth observation and satellite data experiments  
+  - Hardware automation using Orange Pi and Arduino
+
+---
+
+## 🌌 Long-Term Vision
+
+I’m working toward a career in space technology and exploration — developing tools and systems that can support scientific missions and the expansion of human presence beyond Earth.
+Alongside software development, I study physics independently, blending curiosity, logic, and creativity in every project I build.
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-allysonvictor-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allyson-victor-9b534b2b3)  
+📧 [allysonvbm@gmail.com](mailto:allysonvbm@gmail.com)
+
+---
+
+> *“The best way to predict the future is to build it.” — Alan Kay*
