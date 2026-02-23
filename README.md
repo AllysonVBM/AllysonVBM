@@ -1,49 +1,60 @@
-## 🧭 What I Work On
+## 🛰️ About
 
-- 🚀 Experimenting with automation, data analysis, and intelligent systems  
-- 🔭 Exploring ways to apply technology to space science and exploration  
-- ⚙️ Designing prototypes that combine programming, physics, mathematics and electronics  
+Computer Science undergraduate focused on developing technical expertise in systems relevant to space applications, including guidance, navigation and control (GNC), scientific computing, and embedded systems.
+
+My work centers on building computational models, simulations, and control systems that integrate programming, mathematics, and physics. I am particularly interested in developing reliable software for mission-critical environments.
+
+---
+
+## 🔬 Current Focus Areas
+
+- Guidance, Navigation and Control (GNC) algorithms  
+- Control systems (PID, state-space methods)  
+- Scientific computing and numerical simulation  
+- Embedded systems and hardware–software integration  
+- Data processing for space and Earth observation applications  
 
 ---
 
 ## 💻 Technical Skills
 
 **Languages:**  
-Python · C++ - Javascript
+Python · C++ · JavaScript  
 
-**Frameworks & Libraries:**  
-OpenCV · TensorFlow · PyTorch · Pandas · Matplotlib · Scikit-Learn · FastAPI · Uvicorn · FFMPEG  
+**Scientific & ML Libraries:**  
+NumPy · SciPy · Pandas · Matplotlib · Scikit-Learn · TensorFlow · PyTorch · OpenCV  
 
-**Databases:**  
-PostgreSQL · SQLite  
+**Backend & Tools:**  
+FastAPI · Uvicorn · PostgreSQL · SQLite · Git  
 
-**Other Interests:**  
-Machine Learning · Computer Vision · Embedded Systems · Scientific Computing  
-
----
-
-## 🧪 Projects & Experiments
-
-- 🎮 **Minecraft Agent:** autonomous agent capable of exploring and interacting with the environment  
-- 💬 **Discord & WhatsApp Bots:** assistants combining automation, language understanding, and image analysis  
-- 🛰️ **In Progress:**  
-  - Earth observation and satellite data experiments  
-  - Hardware automation using Orange Pi and Arduino
+**Hardware & Systems:**  
+Arduino · Orange Pi · Linux-based environments  
 
 ---
 
-## 🌌 Long-Term Vision
+## 🧪 Selected Projects
 
-I’m working toward a career in space technology and exploration — developing tools and systems that can support scientific missions and the expansion of human presence beyond Earth.
-Alongside software development, I study physics independently, blending curiosity, logic, and creativity in every project I build.
+- **Autonomous Agents & Intelligent Systems**  
+  Development of autonomous agents capable of perception, decision-making, and interaction within simulated environments.
+
+- **Automation & Applied AI Systems**  
+  Bots and assistants integrating computer vision, language processing, and real-time automation.
+
+- **Satellite Data & Earth Observation (In Progress)**  
+  Experiments involving data processing pipelines and analysis of remote sensing datasets.
+
+- **Embedded Control Prototypes (In Progress)**  
+  Hardware-based experiments combining sensors, microcontrollers, and control logic.
+
+---
+
+## 🎯 Long-Term Objective
+
+To contribute to the development of reliable computational and control systems for space missions, focusing on mission-critical software, simulation environments, and autonomous systems.
 
 ---
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-allysonvictor-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allyson-victor-9b534b2b3)  
-📧 [allysonvbm@gmail.com](mailto:allysonvbm@gmail.com)
-
----
-
-> *“The best way to predict the future is to build it.” — Alan Kay*
+- LinkedIn: https://www.linkedin.com/in/allyson-victor-9b534b2b3  
+- Email: allysonvbm@gmail.com
