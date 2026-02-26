@@ -1,18 +1,20 @@
-## 🛰️ About
+# 🛰️ Allyson Victor
 
-Computer Science undergraduate focused on developing technical expertise in systems relevant to space applications, including guidance, navigation and control (GNC), scientific computing, and embedded systems.
+## About
 
-My work centers on building computational models, simulations, and control systems that integrate programming, mathematics, and physics. I am particularly interested in developing reliable software for mission-critical environments.
+Computer Science undergraduate building a strong technical foundation in areas relevant to space systems and aerospace applications. My current focus is on numerical simulation, dynamic systems modeling, and the integration of programming with applied mathematics and physics.
+
+I am progressively developing expertise in classical mechanics, control systems, and scientific computing with the long-term goal of contributing to reliable software for mission-critical and aerospace environments.
 
 ---
 
 ## 🔬 Current Focus Areas
 
-- Guidance, Navigation and Control (GNC) algorithms  
-- Control systems (PID, state-space methods)  
-- Scientific computing and numerical simulation  
-- Embedded systems and hardware–software integration  
-- Data processing for space and Earth observation applications  
+- Foundations of Guidance, Navigation and Control (GNC)
+- Classical mechanics and orbital dynamics
+- Control systems (PID and introductory state-space methods)
+- Scientific computing and numerical simulation
+- Embedded systems fundamentals and hardware–software integration
 
 ---
 
@@ -27,30 +29,30 @@ NumPy · SciPy · Pandas · Matplotlib · Scikit-Learn · TensorFlow · PyTorch 
 **Backend & Tools:**  
 FastAPI · Uvicorn · PostgreSQL · SQLite · Git  
 
-**Hardware & Systems:**  
+**Systems & Hardware:**  
 Arduino · Orange Pi · Linux-based environments  
 
 ---
 
 ## 🧪 Selected Projects
 
+- **Orbital Mechanics Simulation**  
+  Development of numerical simulations for gravitational dynamics using Python. Implementation of time-stepping integration methods to model planetary motion under Newtonian gravity.
+
 - **Autonomous Agents & Intelligent Systems**  
-  Development of autonomous agents capable of perception, decision-making, and interaction within simulated environments.
+  Exploration of perception and decision-making algorithms within simulated environments.
 
 - **Automation & Applied AI Systems**  
-  Bots and assistants integrating computer vision, language processing, and real-time automation.
+  Development of bots and assistants integrating computer vision, language processing, and automation workflows.
 
-- **Satellite Data & Earth Observation (In Progress)**  
-  Experiments involving data processing pipelines and analysis of remote sensing datasets.
-
-- **Embedded Control Prototypes (In Progress)**  
-  Hardware-based experiments combining sensors, microcontrollers, and control logic.
+- **Embedded Control Experiments (In Progress)**  
+  Hardware-based experiments combining sensors, microcontrollers, and basic control logic.
 
 ---
 
 ## 🎯 Long-Term Objective
 
-To contribute to the development of reliable computational and control systems for space missions, focusing on mission-critical software, simulation environments, and autonomous systems.
+To contribute to the development of reliable computational and control systems for aerospace applications, focusing on numerical simulation, dynamic modeling, and mission-critical software environments.
 
 ---
 
