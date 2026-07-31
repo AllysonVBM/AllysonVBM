@@ -1,62 +1,50 @@
-# 🛰️ Allyson Victor
+# Allyson Victor
 
-## About
+**Computer Science Undergraduate** | *Space Systems Engineering, CELSS & Scientific Computing*
 
-Computer Science undergraduate building a strong technical foundation in areas relevant to space systems and aerospace applications. My current focus is on numerical simulation, dynamic systems modeling, and the integration of programming with applied mathematics and physics.
-
-I am progressively developing expertise in classical mechanics, control systems, and scientific computing with the long-term goal of contributing to reliable software for mission-critical and aerospace environments.
+Undergraduate Computer Science student focused on space systems engineering, scientific computing, and embedded software. Dedicated to bridging computer science, dynamics, and applied physics to build reliable software for mission-critical and space exploration applications.
 
 ---
 
-## 🔬 Current Focus Areas
+### 🔬 Current Research
 
-- Foundations of Guidance, Navigation and Control (GNC)
-- Classical mechanics and orbital dynamics
-- Control systems (PID and introductory state-space methods)
-- Scientific computing and numerical simulation
-- Embedded systems fundamentals and hardware–software integration
+* **Benchtop Mini-CELSS (Controlled Ecological Life Support System)**  
+  Investigating closed-loop life support dynamics using embedded Linux (`Orange Pi Zero 2W`) and real-time multi-sensor telemetry ($CO_2$, $O_2$, pH, EC). Developing time-series data pipelines and machine learning models to analyze gas exchange, nutrient dynamics, and system stability for space analog environments.
 
 ---
 
-## 💻 Technical Skills
+### 📑 Areas of Focus
 
-**Languages:**  
-Python · C++ · JavaScript  
-
-**Scientific & ML Libraries:**  
-NumPy · SciPy · Pandas · Matplotlib · Scikit-Learn · TensorFlow · PyTorch · OpenCV  
-
-**Backend & Tools:**  
-FastAPI · Uvicorn · PostgreSQL · SQLite · Git  
-
-**Systems & Hardware:**  
-Arduino · Orange Pi · Linux-based environments  
+- **Guidance, Navigation, and Control (GNC):** Classical mechanics, orbital dynamics, numerical orbit propagation, and state-space control fundamentals.
+- **Controlled Ecological Life Support Systems (CELSS):** Bio-regenerative life support modeling, telemetry acquisition, and environmental control loops.
+- **Scientific Computing & Simulation:** Numerical integration schemes ($n$-body gravitational dynamics), time-stepping algorithms, and computational modeling in Python.
+- **Embedded Systems & Telemetry:** Hardware-software integration, Linux on ARM architectures, sensor interfacing (UART, I2C, SPI), and IoT communications (MQTT).
 
 ---
 
-## 🧪 Selected Projects
+### 🛠️ Technical Stack
 
-- **Orbital Mechanics Simulation**  
-  Development of numerical simulations for gravitational dynamics using Python. Implementation of time-stepping integration methods to model planetary motion under Newtonian gravity.
-
-- **Autonomous Agents & Intelligent Systems**  
-  Exploration of perception and decision-making algorithms within simulated environments.
-
-- **Automation & Applied AI Systems**  
-  Development of bots and assistants integrating computer vision, language processing, and automation workflows.
-
-- **Embedded Control Experiments (In Progress)**  
-  Hardware-based experiments combining sensors, microcontrollers, and basic control logic.
+- **Languages:** Python · C++ · C
+- **Scientific & Data:** NumPy · SciPy · Pandas · Matplotlib · PyTorch
+- **Systems & Hardware:** Linux (ARM/SBC) · Orange Pi · ESP32 · Arduino · UART/I2C/SPI · MQTT
+- **Tools & Infrastructure:** Git · FastAPI · SQLite · PostgreSQL
 
 ---
 
-## 🎯 Long-Term Objective
+### 🚀 Selected Projects
 
-To contribute to the development of reliable computational and control systems for aerospace applications, focusing on numerical simulation, dynamic modeling, and mission-critical software environments.
+* **Orbital Mechanics Propagation & Simulation**  
+  Numerical simulations of gravitational dynamics and planetary orbits using custom numerical integration methods in Python.
+
+* **AgroSat — Remote Sensing & Vegetation Dynamics**  
+  Spatial data pipeline utilizing satellite imagery (ESA/NASA Earth observation) to monitor vegetation health metrics and environmental parameters.
+
+* **Embedded Control & Sensor Integration**  
+  Prototyping sensor fusion and closed-loop control algorithms (PID) on low-power embedded platforms for environmental telemetry.
 
 ---
 
-## 📫 Contact
+### ✉️ Contact & Links
 
-- LinkedIn: https://www.linkedin.com/in/allyson-victor-9b534b2b3  
-- Email: allysonvbm@gmail.com
+- **Email:** [allysonvbm@gmail.com](mailto:allysonvbm@gmail.com)
+- **LinkedIn:** [linkedin.com/in/allyson-victor-9b534b2b3](https://www.linkedin.com/in/allyson-victor-9b534b2b3)
