@@ -40,4 +40,4 @@ Arquitetura multi-agente com pipelines assíncronos (Python/asyncio) e roteament
 ### ✉️ Contato
 
 - **Email:** [allysonvictor2398@gmail.com](mailto:allysonvictor2398@gmail.com)
-- **LinkedIn:** [linkedin.com/in/allyson-victor]([https://www.linkedin.com/in/allyson-victor](https://www.linkedin.com/in/allyson-victor-9b534b2b3/))
+- **LinkedIn:** [linkedin.com/in/allyson-victor](https://www.linkedin.com/in/allyson-victor-9b534b2b3/)
